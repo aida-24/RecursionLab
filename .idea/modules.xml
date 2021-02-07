@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RecursionLab.iml" filepath="$PROJECT_DIR$/RecursionLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vowels.iml" filepath="$PROJECT_DIR$/vowels.iml" />
     </modules>
   </component>
 </project>
